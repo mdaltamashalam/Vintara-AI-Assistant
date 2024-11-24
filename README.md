@@ -97,8 +97,8 @@ This project wouldn't be possible without the following:
 
 ## Contact
 
-- Manik Maity -[manikmaity010@gmail.com]
-- [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
+- Md Altamash Alam
+- [My LinkedIn](https://www.linkedin.com/in/md-altamash-alam-369a73239/)
 
 ---
 
