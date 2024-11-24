@@ -26,9 +26,6 @@ The Friendly AI Assistant is a chat app designed to provide users with concise a
 ### Desktop Preview
 <img src="./assets/desktop-preview.png" alt="Desktop preview">
 
-### Mobile Preview
-<img src="./assets/mobile-preview.png" height="600px" alt="Mobile preview">
-
 ---
 
 
